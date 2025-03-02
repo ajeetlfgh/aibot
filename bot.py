@@ -2,7 +2,7 @@ import os
 import cv2
 import numpy as np
 from gtts import gTTS
-from moviepy.editor import *
+from moviepy.editor import
 from PIL import Image, ImageDraw, ImageFont
 from telegram import Update
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters, CallbackContext
