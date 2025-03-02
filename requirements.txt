@@ -1,0 +1,7 @@
+Flask
+python-telegram-bot
+gtts
+opencv-python
+numpy
+pillow
+moviepy
