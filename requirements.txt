@@ -4,4 +4,4 @@ gtts
 opencv-python
 numpy
 pillow
-pip install moviepy
+moviepy
